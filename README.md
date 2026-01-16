@@ -1,4 +1,4 @@
-[![Shell Linter](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml/badge.svg)](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml) [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Shell Linter](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml/badge.svg?branch=master)](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml) [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Pandoras
 
