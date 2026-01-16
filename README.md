@@ -1,4 +1,4 @@
-[![Shell Linter](https://github.com/estebanways/pandoras/actions/workflows/shell-linter.yml/badge.svg)](https://github.com/estebanways/pandoras/actions/workflows/shell-linter.yml) [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Shell Linter](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml/badge.svg)](https://github.com/estebantechdev/pandoras/actions/workflows/shell-linter.yml) [![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Pandoras
 
@@ -41,7 +41,7 @@ System users without the sudo command, must log in as root instead.
 
 ```shell
 cd
-git clone git@github.com:estebanways/pandoras.git 
+git clone git@github.com:estebantechdev/pandoras.git 
 sudo chown -R root:root pandoras/
 sudo mv pandoras /var 
 ```
@@ -197,7 +197,7 @@ sudo apt-get install qemu-utils
 
 ### Maintainer
 
-- [@estebanways](https://github.com/estebanways) - Maintainer
+- [@estebantechdev](https://github.com/estebantechdev) - Maintainer
 
 ### Original Codebase
 
